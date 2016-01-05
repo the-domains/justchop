@@ -4,8 +4,22 @@
         <description><![CDATA[justCHOP]]></description>
         <link>https://thegrid.ai/justchop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 06:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 06:21:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/justchop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<video src="blob:https%3A//www.youtube.com/38c044e5-309b-4202-b2b2-7a71c0c800ed"></video>]]></description>
+            <link>https://thegrid.ai/justchop/60df0022-7775-4087-9694-c0cb4626abc7/index.html</link>
+            <guid isPermaLink="false">60df0022-7775-4087-9694-c0cb4626abc7</guid>
+            <pubDate>Tue, 05 Jan 2016 06:21:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>demo reel</p>]]></description>
+            <link>https://thegrid.ai/justchop/8b855220-2aaa-4242-bebb-1e9cda0b0282/index.html</link>
+            <guid isPermaLink="false">8b855220-2aaa-4242-bebb-1e9cda0b0282</guid>
+            <pubDate>Tue, 05 Jan 2016 06:19:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What I have done]]></title>
             <description><![CDATA[<article><h1>What I have done</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7677472bfa3820617fc584664fabcd9d7473d7c.png"></article>]]></description>
@@ -19,13 +33,6 @@
             <link>https://thegrid.ai/justchop/8f281179-9201-42aa-a30e-b6635d3fc80a/index.html</link>
             <guid isPermaLink="false">8f281179-9201-42aa-a30e-b6635d3fc80a</guid>
             <pubDate>Tue, 05 Jan 2016 06:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4ada5a1-87cb-45a0-a7d9-5d565c3659ea.png">]]></description>
-            <link>https://thegrid.ai/justchop/a66ba732-77d7-440a-a9ab-7abc2fb54e7f/index.html</link>
-            <guid isPermaLink="false">a66ba732-77d7-440a-a9ab-7abc2fb54e7f</guid>
-            <pubDate>Tue, 05 Jan 2016 06:12:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
