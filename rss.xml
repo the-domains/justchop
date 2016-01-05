@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[justCHOP]]></title>
+        <description><![CDATA[justCHOP]]></description>
+        <link>https://thegrid.ai/justchop/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 06:13:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/justchop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What I have done]]></title>
+            <description><![CDATA[<article><h1>What I have done</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7677472bfa3820617fc584664fabcd9d7473d7c.png"></article>]]></description>
+            <link>https://thegrid.ai/justchop/what-i-have-done/index.html</link>
+            <guid isPermaLink="false">9d8d5250-a591-46c0-98b8-2fa7986857f7</guid>
+            <pubDate>Tue, 05 Jan 2016 06:13:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>philosophy of VR</p>]]></description>
+            <link>https://thegrid.ai/justchop/8f281179-9201-42aa-a30e-b6635d3fc80a/index.html</link>
+            <guid isPermaLink="false">8f281179-9201-42aa-a30e-b6635d3fc80a</guid>
+            <pubDate>Tue, 05 Jan 2016 06:12:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4ada5a1-87cb-45a0-a7d9-5d565c3659ea.png">]]></description>
+            <link>https://thegrid.ai/justchop/a66ba732-77d7-440a-a9ab-7abc2fb54e7f/index.html</link>
+            <guid isPermaLink="false">a66ba732-77d7-440a-a9ab-7abc2fb54e7f</guid>
+            <pubDate>Tue, 05 Jan 2016 06:12:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
