@@ -1,0 +1,28 @@
+name: justCHOP
+favicon: null
+layout_spectrum: 0.17299212329089642
+typography_spectrum: 0.07887155399657786
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.00990950083360076
+  lightness: 0.9786826681811363
+  saturation: 0.20700874971225858
+  rhythmicContrast: 0.7972691133618355
+purpose: []
