@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[My Resume Site]]></title>
         <description><![CDATA[My Resume Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/justchop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 21:08:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 21:08:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/justchop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I want to help bring animated Virtual Reality content to life.]]></title>
+            <description><![CDATA[<h1>I want to help bring animated Virtual Reality content to life.</h1>]]></description>
+            <link>https://thegrid.ai/justchop/i-want-to-help-bring-animated-virtual-reality-content-to-lif/index.html</link>
+            <guid isPermaLink="false">8bf0d3fa-1dcb-45b8-b951-2c540ed2b4b0</guid>
+            <pubDate>Thu, 07 Jan 2016 21:08:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b848c7b2-6f9e-402a-bdf2-3d74af4dbfdd.jpg">]]></description>
-            <link>undefined9c625368-476b-4e94-979a-ed476a0a5147/index.html</link>
+            <link>https://thegrid.ai/justchop/9c625368-476b-4e94-979a-ed476a0a5147/index.html</link>
             <guid isPermaLink="false">9c625368-476b-4e94-979a-ed476a0a5147</guid>
             <pubDate>Thu, 07 Jan 2016 21:08:04 GMT</pubDate>
         </item>
