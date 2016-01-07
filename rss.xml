@@ -1,31 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[justCHOP]]></title>
-        <description><![CDATA[justCHOP]]></description>
+        <title><![CDATA[My Resume Site]]></title>
+        <description><![CDATA[My Resume Site]]></description>
         <link>https://thegrid.ai/justchop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 06:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 20:49:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/justchop/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>demo reel</p>]]></description>
-            <link>https://thegrid.ai/justchop/8b855220-2aaa-4242-bebb-1e9cda0b0282/index.html</link>
-            <guid isPermaLink="false">8b855220-2aaa-4242-bebb-1e9cda0b0282</guid>
-            <pubDate>Tue, 05 Jan 2016 06:19:06 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[What I have done]]></title>
             <description><![CDATA[<article><h1>What I have done</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7677472bfa3820617fc584664fabcd9d7473d7c.png"></article>]]></description>
             <link>https://thegrid.ai/justchop/what-i-have-done/index.html</link>
             <guid isPermaLink="false">9d8d5250-a591-46c0-98b8-2fa7986857f7</guid>
             <pubDate>Tue, 05 Jan 2016 06:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>philosophy of VR</p>]]></description>
-            <link>https://thegrid.ai/justchop/8f281179-9201-42aa-a30e-b6635d3fc80a/index.html</link>
-            <guid isPermaLink="false">8f281179-9201-42aa-a30e-b6635d3fc80a</guid>
-            <pubDate>Tue, 05 Jan 2016 06:12:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
