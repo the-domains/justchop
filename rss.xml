@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My Resume Site]]></title>
+        <description><![CDATA[My Resume Site]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jan 2016 21:08:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b848c7b2-6f9e-402a-bdf2-3d74af4dbfdd.jpg">]]></description>
+            <link>undefined9c625368-476b-4e94-979a-ed476a0a5147/index.html</link>
+            <guid isPermaLink="false">9c625368-476b-4e94-979a-ed476a0a5147</guid>
+            <pubDate>Thu, 07 Jan 2016 21:08:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
